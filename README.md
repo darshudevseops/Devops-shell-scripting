@@ -1,13 +1,4 @@
-## 📸 Screenshots
 
-### 1. Script Execution
-![System Info Script](screenshots/system_info_output.png)
-
-### 2. Project Structure
-![Directory Structure](screenshots/project_structure.png)
-
-### 3. GitHub Repository
-![GitHub Repo](screenshots/github_repo.png)
 
 # 🚀 DevOps Shell Scripts Collection
 
